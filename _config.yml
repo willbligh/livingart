@@ -2,8 +2,8 @@
 title: Living Art
 email: 278f8113e29510f4237d584e461ae999 #w.bligh@gmail.com
 url: https://willbligh.github.com/livingart
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "Bligh, Film"
+description: "Living Art Productions showcases projects by Will Bligh."
+keywords: "Bligh, Film, Theatre"
 skills: "Innovative Theatre and Film Projects"
 meta_author: Bligh Will
 
@@ -32,10 +32,10 @@ color:
 
 # Footer settings
 footer:
-  copyright: Dr. Henry Jekyll
+  copyright: Will Bligh
   location: Location
   social: Around the Web
-  credits: Credits
+  credits: More Info
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -56,7 +56,7 @@ address:
   - line: Australia
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+credits: 'More information on the producer can be found at <a href="http://willbligh.github.io">Will Bligh</a>.'
 
 # Build settings
 markdown: kramdown
