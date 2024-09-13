@@ -18,9 +18,9 @@
             {% if post.video-link %}
             <div class="button-overlay">
               <a href="{{ post.video-link }}">
-                <img src="img/projects/{{ post.video-img }}" class="img-responsive img-centered" alt="{{ post.alt }}"> 
+                <img src="img/projects/{{ post.video-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+                <i class="fa fa-circle-play fa-3x"></i>
               </a>
-              <i class="fa fa-circle-play fa-3x"></i>
             </div>
             {% endif %}
             <p>{{ post.content | markdownify }}</p>
