@@ -3,9 +3,11 @@ layout: default
 modal-id: 2
 date: 2014-07-17
 img: 2dd.png
-alt: image-alt
+video-img: Addss.jpg
+video-link: https://youtu.be/htTbOo13a0E
+alt: Doreens Dead video
 project-date: 
 client:
 category:
 ---
-[![Doreens Dead](img/projects/Addss.jpg)](https://youtu.be/htTbOo13a0E "Doreens Dead video")
+Hello world
