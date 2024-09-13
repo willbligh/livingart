@@ -8,4 +8,4 @@ project-date:
 client:
 category:
 ---
-[![Doreens Dead](projects/Addss.jpg)](https://youtu.be/htTbOo13a0E "Doreens Dead video")
+[![Doreens Dead](img/projects/Addss.jpg)](https://youtu.be/htTbOo13a0E "Doreens Dead video")
