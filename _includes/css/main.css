@@ -171,6 +171,18 @@ header .intro-text .skills {
     border: 0;
 }
 
+.button-overlay {
+    position: relative;
+    display: inline-block;
+}
+
+.button-overlay i {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
 section {
     padding: 100px 0;
 }
