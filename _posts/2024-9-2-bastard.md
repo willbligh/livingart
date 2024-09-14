@@ -1,7 +1,7 @@
 ---
 layout: default
 modal-id: 9
-title: The Bastard
+title: The Bastard (1998)
 img: Hthebastard.png
 video-img: 9bastard.jpg
 video-link: https://youtu.be/O0_dRAnzieY
