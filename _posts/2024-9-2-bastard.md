@@ -2,8 +2,8 @@
 layout: default
 modal-id: 9
 title: The Bastard
-img: 9bastard.jpg
-video-img: Hthebastard.png
+img: Hthebastard.png
+video-img: 9bastard.jpg
 video-link: https://youtu.be/O0_dRAnzieY
 alt: The Bastard
 project-date: 
