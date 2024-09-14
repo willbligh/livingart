@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 6
-title: A Day in the Park
+title: A Day in the Park (2005)
 img: 6daypark.png
 video-img: Epark.jpg
 video-link: https://youtu.be/-n0sokdns6I
 alt: A Day in the Park
 project-date: 
 client:
-category: Theatre
+category: Film
 ---
 
 ”A Day In The Park” (writer/director/producer/actor), Germany, 2005
