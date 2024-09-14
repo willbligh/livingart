@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 7
-title: Artistic Lives
+title: Artistic Lives (2004)
 img: 7artisticlives.png
 video-img: Fartistic.jpg
 video-link: https://youtu.be/oN4ka1WUxuQ
 alt: A Day in the Park
 project-date: 
 client:
-category: Theatre
+category: Film
 ---
 
 “Artistic Lives” (writer/director/producer), Germany and Australia, 2004
