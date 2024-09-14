@@ -1,7 +1,6 @@
 ---
 layout: default
 modal-id: 2
-date: 2014-07-17
 title: Doreen's Dead (2022)
 img: 2dd.png
 video-img: Addss.jpg
