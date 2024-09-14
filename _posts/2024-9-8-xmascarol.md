@@ -7,8 +7,8 @@ video-img: BXmasCarol.jpg
 video-link: https://youtu.be/K5Cc8NZqtrY
 alt: A Christmas Carol
 project-date: 
-client: Theatre
-category:
+client:
+category: Theatre
 ---
 
 ‘A Christmas Carol’, solo performance of Charles Dickens’ play. 
