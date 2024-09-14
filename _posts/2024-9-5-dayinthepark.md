@@ -10,4 +10,13 @@ project-date:
 client:
 category: Theatre
 ---
-Hello world
+
+”A Day In The Park” (writer/director/producer/actor), Germany, 2005
+
+Duration: 5 minutes
+
+Genre: Comedy
+
+Format: Digital video
+
+Synopsis: A homage to Jacques Tati that follows the antics of a homeless man and police-officer.
