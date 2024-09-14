@@ -2,8 +2,8 @@
 layout: default
 modal-id: 7
 title: Artistic Lives
-img: 2dd.png
-video-img: Addss.jpg
+img: 7artisticlives.png
+video-img: Fartistic.jpg
 video-link: https://youtu.be/oN4ka1WUxuQ
 alt: A Day in the Park
 project-date: 
