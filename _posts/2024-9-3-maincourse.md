@@ -2,8 +2,8 @@
 layout: default
 modal-id: 8
 title: The Main Course
-img: 2dd.png
-video-img: Addss.jpg
+img: 8course.png
+video-img: Gmaincourse.jpg
 video-link: https://youtu.be/hehC0NzMWgE
 alt: The Main Course
 project-date: 
