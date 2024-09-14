@@ -1,14 +1,14 @@
 ---
 layout: default
 modal-id: 8
-title: The Main Course
+title: The Main Course (2000)
 img: 8course.png
 video-img: Gmaincourse.jpg
 video-link: https://youtu.be/hehC0NzMWgE
 alt: The Main Course
 project-date: 
 client:
-category: Theatre
+category: Film
 ---
 
 “The Main Course” (writer/director/producer), Australia, 2000
