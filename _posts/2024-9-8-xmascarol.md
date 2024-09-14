@@ -13,5 +13,6 @@ category:
 
 ‘A Christmas Carol’, solo performance of Charles Dickens’ play. 
 
-- HOTA, Gold Coast, 2020; Sydney Fringe Festival, 2022;
-- Zamia Theatre, Tamborine Mountain, 2022.
+HOTA, Gold Coast, 2020;
+Sydney Fringe Festival, 2022;
+Zamia Theatre, Tamborine Mountain, 2022.
