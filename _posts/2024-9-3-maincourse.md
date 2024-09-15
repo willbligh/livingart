@@ -20,7 +20,7 @@ Genre: Drama
 Format: Digital Video
 <div style="height:20px;"></div>
 <div style="text-align: justify; font-size: 1.3em;">
-In competition for National Short Film Competition, Canberra international Film Festival, ’00. Finalist in the Queensland New Filmmakers Awards, ’00.
+In competition for National Short Film Competition, Canberra International Film Festival, ’00. Finalist in the Queensland New Filmmakers Awards, ’00.
 <div style="height:40px;"></div>
 Synopsis: The primary focus of “The Main Course” was to create an environment conducive for improvisation, where the actors, using developed characters, discovered the story while shooting. The story is about Michelle’s revenge on her unfaithful boyfriend.
 </div>
