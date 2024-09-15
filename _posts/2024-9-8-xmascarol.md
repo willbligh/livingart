@@ -16,6 +16,8 @@ HOTA, Gold Coast, 2020;
 Sydney Fringe Festival, 2022;
 
 Zamia Theatre, Tamborine Mountain, 2022.
+<br>
+<br>
 
 <div style="text-align: justify; font-size: 1.3em;">
 A one-man show retelling Charles Dickens’ classic tale of redemption and compassion. The story of Ebenezer Scrooge who on a cold Christmas Eve night is taken on a terrifying journey by three ghosts and shown the error of his ways, offers a timeless message about greed and the joy of sharing.
