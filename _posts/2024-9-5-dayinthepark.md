@@ -18,5 +18,7 @@ Duration: 5 minutes
 Genre: Comedy
 
 Format: Digital video
-
+<div style="height:40px;"></div>
+<div style="text-align: justify; font-size: 1.3em;">
 Synopsis: A homage to Jacques Tati that follows the antics of a homeless man and police-officer.
+</div>
