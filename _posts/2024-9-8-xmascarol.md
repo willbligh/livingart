@@ -17,7 +17,7 @@ Sydney Fringe Festival, 2022;
 
 Zamia Theatre, Tamborine Mountain, 2022.
 
-<div style="text-align: justify; font-size: 1.5em;">
+<div style="text-align: justify; font-size: 1.3em;">
 A one-man show retelling Charles Dickens’ classic tale of redemption and compassion. The story of Ebenezer Scrooge who on a cold Christmas Eve night is taken on a terrifying journey by three ghosts and shown the error of his ways, offers a timeless message about greed and the joy of sharing.
 
 Will Bligh stars in this unique adaptation recreating Scrooges’s world using lighting, sound and a wooden chair. Experience a dynamic and visceral performance as all of your favourite characters, including Bob Cratchit, Jacob Marley, Tiny Tim and the three ghosts, are brought to life on stage. 
