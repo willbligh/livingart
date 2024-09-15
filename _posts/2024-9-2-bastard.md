@@ -18,8 +18,9 @@ Duration: 8 minutes
 Genre: Drama
 
 Format: 16 mm
-
+<div style="height:20px;"></div>
+<div style="text-align: justify; font-size: 1.3em;">
 Finalist in the Queensland New Filmmakers Awards, ’98.
-
+<div style="height:40px;"></div>
 Synopsis: Set the night after a party, a bitter clash between Sara and Michael presents two opposing ideologies.
-
+</div>
