@@ -19,6 +19,10 @@ Genre: Drama
 
 Format: Video
 
-Public screenings at: Filmbuhne am Steinplatz, Berlin, Germany, ‘03; and “Off the Mainstream”, University of Wolloongong, Australia, ‘04.
 
+<div style="height:40px;"></div>
+<div style="text-align: justify; font-size: 1.3em;">
 Synopsis: “Artistic Lives” aim was to develop believable performances by creating scenes in the story using improvisation. Mike Liegh’s method strongly influenced this process. The filmʼs story was created after casting and was based on the seven actors using the themes of ‘art’ and ‘relationships’.
+
+Public screenings at: Filmbuhne am Steinplatz, Berlin, Germany, ‘03; and “Off the Mainstream”, University of Wolloongong, Australia, ‘04.
+</div>
