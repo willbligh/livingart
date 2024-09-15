@@ -18,5 +18,7 @@ Duration: 10 minutes
 Genre: Black Comedy
 
 Format: Digital 4k
-
+<div style="height:40px;"></div>
+<div style="text-align: justify; font-size: 1.3em;">
 Synopsis: It is three o'clock in the morning and Doreen is late again. Arriving drunk, she is ready to make fun of "little Georgie". But for the first time in his life, George is putting his foot down!
+</div>
