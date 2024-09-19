@@ -15,15 +15,17 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            {% if post.video-link %}
+            <!-- {% if post.video-link %}
             <div class="button-overlay">
               <a href="{{ post.video-link }}">
                 <img src="img/projects/{{ post.video-img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
                 <i class="fa fa-circle-play fa-3x"></i>
               </a>
             </div>
+            {% endif %} -->
+            {% if post.video-embed-id %}
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video-embed-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             {% endif %}
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/htTbOo13a0E?si=2oMO1XSohH9JVkHx" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             <p>{{ post.content | markdownify }}</p>
             <ul class="list-inline item-details">
               {% if post.client %}
