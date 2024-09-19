@@ -24,7 +24,7 @@
             </div>
             {% endif %} -->
             {% if post.video-embed-id %}
-            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ video-embed-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+            <iframe width="560" height="315" src="https://www.youtube.com/embed/{{ post.video-embed-id }}" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
             {% endif %}
             <p>{{ post.content | markdownify }}</p>
             <ul class="list-inline item-details">
