@@ -56,7 +56,7 @@ address:
   - line: Australia
 
 # Credits content
-credits: 'More information on the projects can be found at <a href="http://willbligh.github.io">Will Bligh</a>.'
+credits: 'More information on the projects can be found at <a href="http://willbligh.com">Will Bligh</a>.'
 
 # Build settings
 markdown: kramdown
