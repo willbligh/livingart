@@ -4,6 +4,7 @@ modal-id: 9
 title: The Bastard (1998)
 img: 9thebastard.png
 video-img: Hbastard.jpg
+video-embed-id: O0_dRAnzieY?si=tbP6qyzb2OErnMTj
 video-link: https://youtu.be/O0_dRAnzieY
 alt: The Bastard
 project-date: 
