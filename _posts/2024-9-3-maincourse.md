@@ -4,6 +4,7 @@ modal-id: 8
 title: The Main Course (2000)
 img: 8course.png
 video-img: Gmaincourse.jpg
+video-embed-id: hehC0NzMWgE?si=ajBHRDTMOONLr9j6
 video-link: https://youtu.be/hehC0NzMWgE
 alt: The Main Course
 project-date: 
