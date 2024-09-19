@@ -4,6 +4,7 @@ modal-id: 7
 title: Artistic Lives (2004)
 img: 7artisticlives.png
 video-img: Fartistic.jpg
+video-embed-id: oN4ka1WUxuQ?si=b87vQY2pMZrlCK1M
 video-link: https://youtu.be/oN4ka1WUxuQ
 alt: A Day in the Park
 project-date: 
