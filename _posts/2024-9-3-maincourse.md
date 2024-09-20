@@ -24,5 +24,7 @@ Format: Digital Video
 In competition for National Short Film Competition, Canberra International Film Festival, ’00. Finalist in the Queensland New Filmmakers Awards, ’00.
 <div style="height:40px;"></div>
 Synopsis: The primary focus of “The Main Course” was to create an environment conducive for improvisation, where the actors, using developed characters, discovered the story while shooting. The story is about Michelle’s revenge on her unfaithful boyfriend.
+<div style="height:40px;"></div>
+Before the shooting of The Main Course the actors weren’t told the story. Their characters had been developed without arriving at the point of conflict: an affair. The primary focus of this project was to create an environment conducive for improvisation, where the actors, using developed characters, discovered the story. Conflict in the story was introduced either through the individual character’s development or by prompting the actor during shooting. The actors had to listen and respond, which encouraged them to stay ‘in the moment’. With radio mikes and the entire set lit, the actors were free to walk where and when they felt appropriate during the performance.
 </div>
 
