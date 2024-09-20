@@ -26,4 +26,6 @@ Format: Video
 Synopsis: “Artistic Lives” aim was to develop believable performances by creating scenes in the story using improvisation. Mike Liegh’s method strongly influenced this process. The filmʼs story was created after casting and was based on the seven actors using the themes of ‘art’ and ‘relationships’.
 
 Public screenings at: Filmbuhne am Steinplatz, Berlin, Germany, ‘03; and “Off the Mainstream”, University of Wolloongong, Australia, ‘04.
+<div style="height:40px;"></div>
+This is a scene from the improvised film, Artistic Lives. This film used the same process as Mike Leigh (as outlined by Clements, 1983) where the film’s story was created after casting. This story was based on seven actors using the themes of ‘art’ and ‘relationships’ with improvisation integral to the development of characters and plot.
 </div>
